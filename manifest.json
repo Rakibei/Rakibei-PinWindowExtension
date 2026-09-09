@@ -1,0 +1,21 @@
+{
+	"name": "PinWindowExtension",
+	"namespace": "Rakibei",
+	"version_number": "1.0.0",
+	"description": "Allows for 3 pins, and the pinning of research upgrades",
+	"website_url": "https://github.com/Rakibei/Rakibei-PinWindowExtension",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["Rakibei"],
+			"tags": [],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["7.0.1"],
+			"compatible_game_version": ["1.0.07"],
+			"config_schema": {}
+		}
+	}
+}
